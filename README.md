@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Singh</h1>
 <h3 align="center">A passionate <strong>Computer Science</strong> student and <strong>Developer</strong> from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433">
+<img align="right" alt="Coding" width="400" src="https://github.com/anujsngh/anujsngh/blob/new/side_gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujsngh&label=Profile%20views&color=0e75b6&style=flat" alt="anujsngh" /> </p>
 
