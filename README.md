@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/anujsngh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anujsngh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anujsngh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anujsngh" height="30" width="40" /></a>
-<a href="https://www.gateoverflow.in/user/anujs" target="blank"><img align="center" src="https://scontent.fjai6-1.fna.fbcdn.net/v/t39.30808-1/327158883_5217854594913387_7598397640746344518_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=aHY3AREe3V0Q7kNvwEu541d&_nc_oc=AdlSGXq-C7e2n8Nc6t6bkggIqYjuH1aGGbvsIjAWBhV_lnfxeVu7DDxEyqjZi-A_t58&_nc_zt=24&_nc_ht=scontent.fjai6-1.fna&_nc_gid=Tu1cCxCCIkEehdVCxo1Thg&oh=00_AfHeokoyMMrB4SFzj6_e1Dz3tChmy41cFv6bJD_0xrh-gw&oe=6809EF5F" alt="anujs" height="30" width="40" /></a>
+<a href="[https://www.gateoverflow.in/user/anujs](https://gateoverflow.in/user/anujs)" target="blank"><img align="center" src="https://scontent.fjai6-1.fna.fbcdn.net/v/t39.30808-1/327158883_5217854594913387_7598397640746344518_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=aHY3AREe3V0Q7kNvwEu541d&_nc_oc=AdlSGXq-C7e2n8Nc6t6bkggIqYjuH1aGGbvsIjAWBhV_lnfxeVu7DDxEyqjZi-A_t58&_nc_zt=24&_nc_ht=scontent.fjai6-1.fna&_nc_gid=Tu1cCxCCIkEehdVCxo1Thg&oh=00_AfHeokoyMMrB4SFzj6_e1Dz3tChmy41cFv6bJD_0xrh-gw&oe=6809EF5F" alt="anujs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
